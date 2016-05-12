@@ -1,1 +1,1 @@
-# backpackingguatemala.github.io
+# http://backpackingguatemala.github.io
