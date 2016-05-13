@@ -48,7 +48,7 @@
 #B1 {
   border-radius: 25px;
   background-color: #7cc576;
-  position: relative;
+  position: fixed;
   left: -37px;
   top: -15px;
   padding-left: 28px;
