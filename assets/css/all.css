@@ -3,7 +3,8 @@
   margin: 0 auto;
   width: 1366px;
   background: url(../img/sky.jpg) !important;
-  background-position: 20% 0%; }
+  background-position: 20% 0%;
+  z-index: 1 }
   #header nav {
     color: #38386c;
     font-size: 24px;
