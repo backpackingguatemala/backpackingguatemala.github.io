@@ -1,0 +1,38 @@
+#header {
+  height: 2500px;
+  margin: 0 auto;
+  width: 1366px;
+  background: url(../img/blog.png);
+  background-size: cover; }
+
+h1 {
+  text-transform: uppercase;
+  color: white;
+  text-align: center; }
+
+h2 {
+  color: white;
+  text-align: center; }
+
+body {
+  margin: 0px; }
+
+#B1 {
+  border-radius: 25px;
+  background-color: #7cc576;
+  position: fixed;
+  left: -37px;
+  top: -15px;
+  padding-left: 28px;
+  padding-top: 50px;
+  width: 394px;
+  height: 80px;
+  text-indent: 50px;
+  font-family: Tahoma;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  color: #ddeac9;
+  margin: 0 auto;
+  z-index: 1; }
