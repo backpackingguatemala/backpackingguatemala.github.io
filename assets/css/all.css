@@ -29,6 +29,8 @@ body {
     .main-buttons [class^="comp-"] svg {
       height: 102px;
       width: 102px; }
+    .main-buttons [class^="comp-"].comp-success {
+      order: 5; }
 
 #B1 {
   border-radius: 25px;
@@ -89,7 +91,7 @@ img {
 
 @media screen and (max-width: 500px) {
   .section {
-    height: 2300px;
+    height: 2100px;
     background: none;
     background-color: #b5cd93; }
     .section .set {

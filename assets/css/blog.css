@@ -28,11 +28,13 @@ body {
   width: 394px;
   height: 80px;
   text-indent: 50px;
-  font-family: Tahoma;
-  font-size: 24px;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: 400;
   color: #ddeac9;
   margin: 0 auto;
   z-index: 1; }
+
+#B1 {
+  font-family: Tahoma;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  font-size: 24px; }
